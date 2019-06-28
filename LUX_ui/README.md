@@ -2,6 +2,8 @@
 
 This example showcases how a specific channel can be monitored and make use of Node-RED's user interface **dashboard** to access real-time vizualisation of data. 
 You'll need to configure your device MAC address in the filtering and printing within the flow.  
+This is the case of the switch and the 2 nodes connected to it. 
+
 [1. Flow](#flow)  
 [2. Description](#desc)  
 
