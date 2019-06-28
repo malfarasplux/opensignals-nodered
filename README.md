@@ -13,7 +13,8 @@
 ![OS_TCP Setup](/img/OS_TCP.png "OpenSignals TCP Configuration")
 
 2. Deploy your flow
-3. Click Start
+3. Click Start and begin receiving your sensor data
 
 ##  3. Flow <a name="flow"></a>
+[OpenSignals TCP / IP flow](/flow/opensignals_tcp.json)  
 ![OS_TCP_flow](/img/OS_TCP_flow.png "OpenSignals TCP Flow")
