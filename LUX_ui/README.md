@@ -6,7 +6,10 @@ You'll need to configure your device MAC address in the filtering and printing w
 [2. Description](#desc)  
 
 ##  1. Flow and UI <a name="flow"></a>  
+### Downloadable JSON
 [OpenSignals TCP / IP flow](/OS_TCP_LUX_ui.json)  
+
+### Interface
 ![LUX UI FLow](LUX_mon_flow.png "OpenSignals TCP LUX UI Flow")
 
 You should be able to see the following UI in your browser:
