@@ -21,7 +21,7 @@
         "type": "tcp request",
         "z": "f4a56dbd.2c0d5",
         "server": "localhost",
-        "port": "3003",
+        "port": "5555",
         "out": "sit",
         "splitc": " ",
         "name": "OpenSignals TCP / IP",
