@@ -412,7 +412,7 @@
         "type": "switch",
         "z": "f4a56dbd.2c0d5",
         "name": "",
-        "property": "payload.returnData[\"20:17:09:18:46:98\"]",
+        "property": "payload.returnData[\"XX:XX:XX:XX:XX:XX\"]",
         "propertyType": "msg",
         "rules": [
             {
