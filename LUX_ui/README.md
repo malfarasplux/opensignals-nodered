@@ -14,6 +14,6 @@ You should be able to see the following UI in your browser:
 
 
 ##  2. Description <a name="desc"></a>  
-- Follow the [initial setup steps](https://github.com/malfarasplux/opensignals-nodered/)  
+- Follow the [initial setup steps](https://github.com/malfarasplux/opensignals-nodered/#set)  
 - Configure your MAC in the flow  
 - Deploy, [launch the UI](http://localhost:1880/ui) and press start   
