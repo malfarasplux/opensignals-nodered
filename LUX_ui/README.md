@@ -13,7 +13,7 @@ You should be able to see the following UI in your browser:
 ![LUX UI FLow](LUX_mon_ui.png "OpenSignals TCP LUX UI")
 
 
-##  2. Description <a name="ts"></a>  
+##  2. Description <a name="desc"></a>  
 - Follow the [initial setup steps](https://github.com/malfarasplux/opensignals-nodered/)  
 - Configure your MAC in the flow  
 - Deploy, [launch the UI](http://localhost:1880/ui) and press start   
