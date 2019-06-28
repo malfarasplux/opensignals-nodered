@@ -8,7 +8,7 @@
 
 ##  2. Setup <a name="set"></a>
 1. Launch OpenSignals and configure the TCP/IP Save Integration with the chosen port
-![OS_TCP Setup](/OS_TCP.jpg "OpenSignals TCP Configuration")
+![OS_TCP Setup](/img/OS_TCP.jpg "OpenSignals TCP Configuration")
 
 2. Deploy your flow
 3. Click Start
