@@ -21,7 +21,11 @@
 4. Click on the Start Node and begin receiving your sensor data. You're ready to see it in the debug window or process it as you like
 
 ##  3. Flow <a name="flow"></a>
+
+### Downloadable JSON
 [OpenSignals TCP / IP flow](/flow/opensignals_tcp.json)  
+
+### Interface
 ![OS_TCP_flow](/img/OS_TCP_flow.png "OpenSignals TCP Flow")
 
 ##  4. Troubleshooting <a name="ts"></a>
