@@ -1,6 +1,6 @@
 # Monitor LUX in a UI using OpenSignals Node-RED TCP / IP flow
 
-This example showcases how a specific channel can be monitored and make use of Node-RED's user interface to access real-time vizualisation of data. 
+This example showcases how a specific channel can be monitored and make use of Node-RED's user interface *dashboard* to access real-time vizualisation of data. 
 You'll need to configure your device MAC address in the filtering and printing within the flow.  
 [1. Flow](#flow)  
 [2. Description](#desc)  
