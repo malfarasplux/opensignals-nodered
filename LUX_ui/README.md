@@ -7,6 +7,7 @@ This is the case of the switch and the 2 nodes connected to it.
 ## Prerequisites  
 [Node-RED Dashboard](https://github.com/node-red/node-red-dashboard) (see LICENSE.md)  
 
+## Steps  
 [1. Example Flow](#flow)  
 [2. Description](#desc)  
 
