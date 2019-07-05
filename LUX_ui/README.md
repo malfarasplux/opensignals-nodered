@@ -4,7 +4,10 @@ This example showcases how a specific channel can be monitored and make use of N
 You'll need to configure your device MAC address in the filtering and printing within the flow.  
 This is the case of the switch and the 2 nodes connected to it. 
 
-[1. Flow](#flow)  
+## Prerequisites  
+[Node-RED Dashboard](https://github.com/node-red/node-red-dashboard) (see LICENSE.md)  
+
+[1. Example Flow](#flow)  
 [2. Description](#desc)  
 
 ##  1. Flow and UI <a name="flow"></a>  
